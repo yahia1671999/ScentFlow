@@ -1,0 +1,13 @@
+{
+  "name": "Remix: ERP/POS داخلي لمحلات العطور: ScentFlow ERP",
+  "description": "A comprehensive ERP and POS system for perfume retail, featuring custom mixing engines, inventory management, loyalty programs, and data analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "ERP",
+    "POS",
+    "Inventory Management",
+    "Loyalty Program"
+  ]
+}
